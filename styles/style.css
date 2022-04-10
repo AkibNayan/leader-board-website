@@ -1,0 +1,40 @@
+body{
+    background-color: #E5E5E5;
+}
+.navbar img{
+    width: 40px;
+}
+.top-player img{
+    width: 56px;
+}
+main{
+    background-color: #fff;
+}
+main hr{
+    margin-top: 30px;
+    background-color: gray;
+}
+.top-blog img{
+    width: 177px;
+}
+.blog{
+    display: flex;
+}
+.blog span{
+    color: #562EFF;
+}
+
+.top-course h3{
+    padding-top: 30px;
+}
+.top-course img{
+    width: 177px;
+}
+.top-course p{
+    color: #ED6B4F;
+    margin-bottom: 0px;
+}
+.rating{
+    width: 15px !important;
+    height: 15px;
+}
